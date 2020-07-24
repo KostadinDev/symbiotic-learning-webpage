@@ -1,0 +1,16 @@
+.buttn {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    min-width:150px;
+}
+.inpt{
+    width:170px;
+}
+
+.buttn-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
